@@ -1,8 +1,11 @@
 # 🚀 Despliegue de Aplicaciones Web  
 
-📘 **Código del módulo:** 0614  
-👨‍🏫 **Docente:** PENDIENTE 
+📘 **Código del módulo:** 0614 
+
+👨‍🏫 **Docente:** PENDIENTE
+
 📅 **Curso:** 2025-2026
+
 🎓 **Ciclo:** Desarrollo de Aplicaciones Web (2º DAW)  
 
 ---
